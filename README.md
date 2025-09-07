@@ -26,3 +26,6 @@ Este é um projeto pessoal de um jogo da memória desenvolvido com HTML, CSS e J
 **CSS3**: Estilização com design responsivo e animações  
 **JavaScript**: Lógica do jogo e integração com API  
 **Deck of Cards API**: Geração de cartas aleatórias
+
+### Imagens do Projeto:
+<img src="scr/imgs/paginaInicial.png" alt="Tela inicial">
